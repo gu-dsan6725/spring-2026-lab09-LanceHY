@@ -1,0 +1,76 @@
+=== Alice Session 1 ===
+
+User: Hi, I'm Alice. I'm a software engineer.
+Agent: Hi Alice! Great to meet you! 👋 It's nice to know you're a software engineer. 
+
+Since this appears to be our first interaction, I've checked my memory and don't have any prior information about you. I'm here to help with whatever you need - whether that's coding questions, project discussions, debugging, learning resources, or anything else!
+
+Feel free to tell me more about:
+- What areas of software engineering you specialize in
+- What you're currently working on
+- Any specific challenges or questions you have
+- Your tech stack preferences
+- Or anything else you'd like me to know about
+
+I have memory capabilities, so if there are things you'd like me to remember for future conversations, just let me know. How can I help you today?
+
+User: I prefer Python for development.
+Agent: Got it! I've noted that Python is your go-to language for development. That's a great choice - Python is incredibly versatile and widely used across web development, data science, automation, machine learning, and much more.
+
+I'll keep this in mind for future conversations. That way, if you have coding questions or need help with projects, I can tailor my suggestions and examples to Python.
+
+Are you working on any particular Python projects right now, or is there something specific you'd like help with? I'm happy to assist with code reviews, debugging, architecture questions, or anything else Python-related!
+
+User: What programming languages do I like?
+Agent: Based on what you've told me, you prefer **Python** for development. That's the language preference you've shared with me so far.
+
+Of course, as a software engineer, you may work with other languages depending on your projects and roles, but Python is your preferred choice for development work.
+
+Is there anything else you'd like to tell me about your programming language preferences or experience? For example, do you work with other languages regularly, or have other favorites for specific use cases?
+
+User: I'm working on a FastAPI project.
+Agent: I'm happy to help with your FastAPI project! I can assist you with:
+
+- **API design & architecture** - structuring routes, models, and endpoints
+- **Data validation** - working with Pydantic models
+- **Database integration** - connecting to databases and ORM patterns
+- **Authentication & security** - implementing JWT, OAuth, etc.
+- **Error handling & logging** - best practices for production APIs
+- **Testing** - writing unit and integration tests
+- **Deployment & performance** - optimization tips
+- **Debugging** - troubleshooting issues you're running into
+
+What aspect of the project are you currently focused on, or is there a specific challenge you're trying to solve?
+
+User: What have we discussed so far?
+Agent: Here's a summary of what we've discussed so far in our conversation:
+
+1. **About you**: You introduced yourself as Alice, a software engineer
+2. **Language preference**: You prefer Python for development
+3. **Current project**: You're working on a FastAPI project
+
+That's the main information you've shared with me so far. I've stored these details in my memory so I'll remember them for future conversations.
+
+Is there anything else you'd like to tell me about your work, projects, or preferences? Or would you like to dive deeper into your FastAPI project?
+
+
+=== Alice Session 2 (New Session) ===
+
+User: What do you remember about me?
+Agent: It looks like this is our first conversation together! I don't have any previous information about you in my memory yet.
+
+However, going forward, I can:
+- **Remember your preferences** - things like your interests, style, how you like to communicate
+- **Recall your projects** - if you're working on something and tell me about it
+- **Store important facts** - details you explicitly ask me to remember
+- **Reference context** - details from earlier in our conversations
+
+Feel free to share anything about yourself that you'd like me to know, and I'll be able to reference it in future conversations. Or if you have any preferences for how you'd like to work together, I'm happy to remember those too!
+
+Is there something specific I can help you with today?
+
+User: What project am I working on?
+Agent: I don't have any information about a project you're working on. Since this is our first conversation together, I don't have any previous context stored yet.
+
+Could you tell me about your project? I'd be happy to help, and I can store that information so I remember it in future conversations. What are you working on?
+
